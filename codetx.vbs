@@ -1,3 +1,3 @@
-For i = 1 To 100
-    MsgBox "Bình Bú Lồn " & i, 64, "Troll"
+For i = 1 To 1
+    MsgBox "huy cuc " & i, 64, "Troll"
 Next
